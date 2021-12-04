@@ -1,0 +1,2 @@
+# traffic_analysis
+The goal of our analysis is to determine some indicators of heavy traffic on I-94 using exploratory data and and visualizations.  A station located approximately midway between Minneapolis and Saint Paul recorded the traffic data. Also, the station only records westbound traffic (cars moving from east to west).  The dataset is available here: https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume
